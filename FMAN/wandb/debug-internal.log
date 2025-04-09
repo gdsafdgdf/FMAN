@@ -1,0 +1,15 @@
+{"time":"2025-04-08T14:10:00.928079278+08:00","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"/root/autodl-tmp/wandb/run-20250408_141000-cxzjga53/logs/debug-core.log"}
+{"time":"2025-04-08T14:10:01.985528423+08:00","level":"INFO","msg":"created new stream","id":"cxzjga53"}
+{"time":"2025-04-08T14:10:01.985616249+08:00","level":"INFO","msg":"stream: started","id":"cxzjga53"}
+{"time":"2025-04-08T14:10:01.985852092+08:00","level":"INFO","msg":"writer: Do: started","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:01.985957541+08:00","level":"INFO","msg":"handler: started","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:01.985989776+08:00","level":"INFO","msg":"sender: started","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:02.425815877+08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-08T14:10:26.563703959+08:00","level":"INFO","msg":"stream: closing","id":"cxzjga53"}
+{"time":"2025-04-08T14:10:26.563744489+08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-08T14:10:26.563834511+08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-08T14:10:27.765842252+08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-08T14:10:28.653545269+08:00","level":"INFO","msg":"handler: closed","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:28.653647893+08:00","level":"INFO","msg":"sender: closed","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:28.653626466+08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"cxzjga53"}
+{"time":"2025-04-08T14:10:28.65376738+08:00","level":"INFO","msg":"stream: closed","id":"cxzjga53"}
